@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">내 시간표</string>
+    <string name="mon">월</string>
+    <string name="tue">화</string>
+    <string name="wed">수</string>
+    <string name="thu">목</string>
+    <string name="fri">금</string>
+    <string name="time9">09</string>
+    <string name="arc">건축학</string>
+    <string name="time10">10</string>
+    <string name="edu">에  듀\n305</string>
+    <string name="soft">소프트</string>
+    <string name="time11">11</string>
+    <string name="time12">12</string>
+    <string name="gra">그래픽</string>
+    <string name="time13">13</string>
+    <string name="mob">모바일</string>
+    <string name="c304">304</string>
+    <string name="time14">14</string>
+    <string name="c412">412</string>
+    <string name="time15">15</string>
+    <string name="man">경  영</string>
+    <string name="time16">16</string>
+    <string name="c305">305</string>
+    <string name="sem">세미나</string>
+    <string name="time17">17</string>
+    <string name="c601">601</string>
+    <string name="time18">18</string>
+    <string name="fin">졸  작</string>
+    <string name="time19">19</string>
+</resources>
